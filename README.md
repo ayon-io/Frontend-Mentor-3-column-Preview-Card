@@ -1,5 +1,5 @@
 # Frontend-Mentor-3-column-Preview-Card
-This is a challenge from Frontend Mentor that wants us to create a 3-column preview card from pure HTML &amp; CSS.
+This is a solution from Frontend Mentor that challanges you to create a 3-column preview card from pure HTML &amp; CSS.
 
 **Challange Link:** https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 
